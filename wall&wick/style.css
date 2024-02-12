@@ -1,29 +1,24 @@
+Style.css
 html {
   height: 100%;
   width: 100%;
 }
-
 body {
-  background-color: #000000;
+  background-color: #230000;
   font-family: Arial, sans
 }
-
-body p {
+p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color:white;
+  text-align: center;
 }
-
 #showtimes{
   text-align: center;
 }
-
 body h1{
 }
-
 #welcome {
-
 }
-
 header h1 {
   text-align: center;
   font-size: 60px;
@@ -36,36 +31,35 @@ header h1 {
 header ul{
   text-align: center;
   font-size: 25px;
-  background-color: #000000;
+  background-color: #230000;
   position: relative;
 }
-
 h2 {
   text-align: center;
   color: white;
   position: relative;
   padding: 1px;
 }
-
 .showtimes {
   text-align: center;
   color: white;
   position: relative;
 }
-
 h3 {
   color:white;
   text-align: center;
 }
-
 .body-text  {
   text-align: center;
 }
 
-.socials {
+header p{
+  text-align: left;
+}
+
+div {
+  font-size: 25px;
   text-align: center;
 }
 
- #gmail {
-   padding: 20px;
- }
+
